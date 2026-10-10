@@ -8,3 +8,12 @@ Kokoro-82M (kokoro-v1.0.int8.onnx, voices-v1.0.bin)
 Vosk model vosk-model-en-us-0.22-lgraph
   Copyright Alpha Cephei Inc. https://alphacephei.com/vosk/models
   Apache License 2.0.
+
+Python packages (release packages-2026-10), unmodified from PyPI:
+  kokoro-onnx 0.6.1 — https://github.com/thewh1teagle/kokoro-onnx, MIT License.
+  vosk 0.3.45 — https://github.com/alphacep/vosk-api, Apache License 2.0.
+  espeakng-loader 0.2.4 — https://github.com/thewh1teagle/espeakng-loader, MIT License.
+    Its wheel bundles espeak-ng 1.52.0 (https://github.com/espeak-ng/espeak-ng),
+    GNU GPL v3; the full espeak-ng 1.52.0 source is included in the release.
+  phonemizer 3.4.0 — https://github.com/bootphon/phonemizer, GNU GPL v3;
+    its source distribution is included in the release.
