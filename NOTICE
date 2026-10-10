@@ -1,0 +1,10 @@
+EDChronicle-models redistributes the following files unmodified.
+
+Kokoro-82M (kokoro-v1.0.int8.onnx, voices-v1.0.bin)
+  Model: https://huggingface.co/hexgrad/Kokoro-82M, Apache License 2.0.
+  ONNX conversion and voices file: https://github.com/thewh1teagle/kokoro-onnx
+  (release model-files-v1.0).
+
+Vosk model vosk-model-en-us-0.22-lgraph
+  Copyright Alpha Cephei Inc. https://alphacephei.com/vosk/models
+  Apache License 2.0.
